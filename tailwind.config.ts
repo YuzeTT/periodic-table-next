@@ -14,7 +14,7 @@ const config: Config = {
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
       gridTemplateColumns: {
-        '18': 'repeat(18, minmax(0, 1fr))'
+        '20': 'repeat(20, minmax(0, 1fr))'
       },
       gridColumn: {
         'span-10': 'span 10 / span 10',
