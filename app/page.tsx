@@ -135,6 +135,12 @@ export default function Home() {
         <Element number={110} en="Ds" zh="𫟼" aw={281.000} type="jt" bt br />
         <Element number={111} en="Rg" zh="𬬭" aw={280.000} type="jt" bt br />
         <Element number={112} en="Cn" zh="鎶" aw={285.000} type="jt" bt br />
+        <Element number={113} en="Nh" zh="鿭" aw={284.000} type="l" bl bt br />
+        <Element number={114} en="Fl" zh="𫓧" aw={289.000} type="l" bl bt br />
+        <Element number={115} en="Mc" zh="镆" aw={288.000} type="l" bl bt br />
+        <Element number={116} en="Lv" zh="𫟷" aw={293.000} type="l" bl bt br />
+        <Element number={117} en="Ts" zh="鿬" aw={294.000} type="h" bl bt br />
+        <Element number={118} en="Og" zh="鿫" aw={294.000} type="h" bl bt br />
       </div>
     </div>
   )
